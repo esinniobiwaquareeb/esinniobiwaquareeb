@@ -1,7 +1,8 @@
-## 🚀 About Me
+##  🚀 About Me
 ###  Hi there 👋, I'm Esinniobiwa Quareeb (muftyoftech)
-###  I build things that work on Computer
+###  📫 I build things that work on Computer
 ###  📫 Need to reach me?: equareeb@gmail.com 
+###  ⚡ Fun fact: I'm called Meme Lord because there is no dulling moment with me
 
 <!--
 **esinniobiwaquareeb/esinniobiwaquareeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
