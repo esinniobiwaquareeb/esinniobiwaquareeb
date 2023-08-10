@@ -1,4 +1,7 @@
-### Hi there 👋
+## 🚀 About Me
+###  Hi there 👋, I'm Esinniobiwa Quareeb (muftyoftech)
+###  I build things that work on Computer
+###  📫 Need to reach me?: equareeb@gmail.com 
 
 <!--
 **esinniobiwaquareeb/esinniobiwaquareeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
