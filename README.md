@@ -4,6 +4,8 @@
 ###  📫 Need to reach me?: equareeb@gmail.com 
 ###  ⚡ Fun fact: I'm called Meme Lord because there is no dulling moment with me
 
+### :fire: My Stats
+
 <!--
 **esinniobiwaquareeb/esinniobiwaquareeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
